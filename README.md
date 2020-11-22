@@ -1,4 +1,4 @@
 # Ping-Pong-Game
 A small pong game made in Java using AWT.
 
-[Ping-Pong](https://i.imgur.com/AbWhF6S.png)
+![Screenshot](https://github.com/Cpt-Price/Ping-Pong-Game/blob/main/pong_game/screenshot.PNG)
